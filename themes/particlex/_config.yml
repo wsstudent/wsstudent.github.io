@@ -25,7 +25,7 @@ colors:
 # Main menu navigation
 menu:
     Home:
-        name: house
+        name: 主页
         theme: solid
         link: /
     About:
@@ -49,11 +49,11 @@ menu:
 card:
     enable: true
     description: |
-        Description
+        我是fw
         ...
     iconLinks:
     friendLinks:
-        Argvchs: https://argvchs.github.io
+        友情链接: https://2dheartbreakcity.top/
 
 # Footer info
 footer:
